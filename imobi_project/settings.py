@@ -41,6 +41,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'imobi_app',
     'admin_object_actions',
+    'plataforma',
 ]
 
 MIDDLEWARE = [
