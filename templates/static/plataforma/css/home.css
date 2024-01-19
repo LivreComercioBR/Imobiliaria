@@ -2,6 +2,11 @@
     background-color: #30CD9E;
 }
 
+.nav-item a{
+    font-size: 22px;
+}
+
+
 .font_logo{
     font-family: 'Courier New', Courier, monospace;
     font-size: 25px;
